@@ -6,7 +6,10 @@ Our course will use [**Edugator**](https://edugator.app/), an online coding envi
 
 ## 💻 1. Platform Overview
 
+<div align="center">
 <img width="1906" height="1035" alt="Edugator Platform Interface" src="https://github.com/user-attachments/assets/94b11bf5-1122-4545-a0e6-9331f910da8e" />
+</div>
+
 
 <br>
 
@@ -39,14 +42,18 @@ The integrated chatbot is designed to guide your learning 💡:
 
 **Here's how to use Bloom:**
 
+<div align="center">
+   
 ![Bloom Chatbot Interface](https://github.com/user-attachments/assets/e0f5e332-9aa7-4907-8634-2c3d93344876)
+
+</div>
 
 <br>
 
 
 ---
 
-## 🚀 2.0 Getting Started
+## 🚀 2. Getting Started
 
 ### Step 1: Create Your Account
 
@@ -55,7 +62,6 @@ The integrated chatbot is designed to guide your learning 💡:
    - **Email:** Your university email address
    - **Password:** Choose a secure password
 
-<br>
 
 ### Step 2: Join Your Course
 
@@ -65,9 +71,9 @@ The integrated chatbot is designed to guide your learning 💡:
 
 **Example invitation:**
 
-![Course Invitation Example](https://github.com/user-attachments/assets/e0237c94-3fb9-4931-924d-db775194c155)
-
-<br>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e0237c94-3fb9-4931-924d-db775194c155" alt="Course Invitation Example" width="400" />
+</div>
 
 ### Step 3: Start Coding! 🎉
 
@@ -76,9 +82,11 @@ The integrated chatbot is designed to guide your learning 💡:
 - Write your solution in the code editor
 - Test and submit your work
 
+  <br>
+
 ---
 
-## 3.0 Need Help ❓
+## 3. Need Help ❓
 
 ### 3.1 Technical Support
 
@@ -87,7 +95,6 @@ If you experience any technical issues or have questions about the platform:
 📧 **Email:** kapooramanpreet@ufl.edu or 
 👨‍🏫 **Instructor:** Contact your course instructor
 
-<br>
 
 ### 3.2 Common Questions
 
