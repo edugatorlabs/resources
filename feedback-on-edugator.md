@@ -80,9 +80,3 @@ If you have experienced any technical issues with Edugator related to this cours
 Any other comments
 
 ---
-
-## Notes
-
-- Fields marked with * are required
-- Email addresses will be recorded with responses
-- Never submit passwords through this form
