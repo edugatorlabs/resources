@@ -8,6 +8,7 @@ Our course will use [**Edugator**](https://edugator.app/), an online coding envi
 
 <div align="center">
 <img width="4296" height="2357" alt="Edugator Platform Interface - Student View" src="https://github.com/user-attachments/assets/37523d34-b360-410d-b5fa-512c617d0328" />
+
 </div>
 
 
@@ -43,9 +44,7 @@ The integrated chatbot is designed to guide your learning 💡:
 **Here's how to use Bloom:**
 
 <div align="center">
-   
-![Bloom Chatbot Interface](https://github.com/user-attachments/assets/e0f5e332-9aa7-4907-8634-2c3d93344876)
-
+   <img width="1800" height="788" alt="chatbot (1)" src="https://github.com/user-attachments/assets/9c8cdf68-8dcc-4fb9-ac02-4d2ccc6a070a" />
 </div>
 
 <br>
@@ -112,7 +111,6 @@ A: No, Bloom is designed to help you learn by guiding you toward the solution, n
 <div align="center">
 
 **Happy Coding! 🐊**
-
 *Edugator is designed to help you learn through practice and guided support.*
 
 </div>
