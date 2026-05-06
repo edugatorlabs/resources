@@ -21,16 +21,16 @@ Edugator provides everything you need to learn and practice coding effectively:
 | Feature | Description |
 |---------|-------------|
 | **Problem Description** | View the current task and requirements in the left panel |
-| **Navigation** | Switch between problems using the top center buttons |
-| **Code Editor** | Write and test your solutions in the right panel |
+| **Navigation** | Switch between problems and lessons using the top center buttons |
+| **Code Editor** | Write and test your code solutions in the right panel |
 | **Submit Code** | Run your solution against automated tests to verify correctness |
 | **Run Code** | Execute your code with sample input for quick testing |
 | **Submission History** | View your score and submission history in the top-left corner above problem title |
-| **AI Teaching Assistant (Bloom)** | Get help with reasoning, debugging, and understanding errors |
+| **AI Tutor (Bloom)** | Get help with reasoning, debugging, and understanding errors |
 
 <br>
 
-### 1.2 About Bloom - Your AI Teaching Assistant 😊
+### 1.2 About Bloom - Your AI Tutor 😊
 
 The integrated chatbot is designed to guide your learning 💡:
 
