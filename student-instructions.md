@@ -8,7 +8,7 @@ Our course will use [**Edugator**](https://edugator.app/), an online coding envi
 
 <div align="center">
 <img width="4296" height="2357" alt="Edugator Platform Interface - Student View" src="https://github.com/user-attachments/assets/37523d34-b360-410d-b5fa-512c617d0328" />
-
+<i>Figure 1: Edugator Platform Interface - Student View</i>
 </div>
 
 
@@ -45,6 +45,7 @@ The integrated chatbot is designed to guide your learning 💡:
 
 <div align="center">
    <img width="1800" height="788" alt="chatbot (1)" src="https://github.com/user-attachments/assets/9c8cdf68-8dcc-4fb9-ac02-4d2ccc6a070a" />
+   <i>Figure 2: AI Tutor Bloom for Assistance</i>
 </div>
 
 <br>
@@ -72,6 +73,7 @@ The integrated chatbot is designed to guide your learning 💡:
 
 <div align="center">
    <img width="528" height="418" alt="Course Invitation Example" src="https://github.com/user-attachments/assets/11aa9813-29c6-46ec-b252-bdc555ce5bea" />
+   <i>Figure 3: Course Invitation Example</i>
 </div>
 
 ### Step 3: Start Coding! 🎉
