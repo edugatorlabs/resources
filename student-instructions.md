@@ -7,7 +7,8 @@ Our course will use [**Edugator**](https://edugator.app/), an online coding envi
 ## 💻 1. Platform Overview
 
 <div align="center">
-<img width="4296" height="2357" alt="Edugator Platform Interface - Student View" src="https://github.com/user-attachments/assets/37523d34-b360-410d-b5fa-512c617d0328" />
+<img width="4323" height="2373" alt="Edugator_interface_student" src="https://github.com/user-attachments/assets/db11cfa7-1c48-4a94-ab45-95d5a7028ff5" />
+
 <i>Figure 1: Edugator Platform Interface - Student View</i>
 </div>
 
